@@ -17,7 +17,7 @@ class ArrayExample4 {
 
 		//2.Jagged Array
 		long [][][] b = new long[2][1][];
-		b[0][0] = new long[2];
+		b[0][0] = new long[2];  
 		b[1][0] = new long[3];
 		b[0][0][0] = 10;
 		b[0][0][1] = 20;
