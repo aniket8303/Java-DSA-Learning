@@ -1,4 +1,4 @@
-class Solution{
+class ArrayExample1{
 	public static void main(String[] args) {
 		// int [] a ; //a->1d => dimensional array
 		// int b [] ; //b->1d
