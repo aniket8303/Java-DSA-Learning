@@ -27,5 +27,10 @@ class ArrayExample5{
 			i++;
 		}while(i<arr.length);
 		System.out.println("\n");
+
+		//for each loop
+		for(int ele : arr){
+			System.out.print(ele+" ");
+		}
 	}
 }
